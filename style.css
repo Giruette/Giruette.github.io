@@ -1,0 +1,17 @@
+#mainContainer{
+    width: 90%;
+    padding: 50px 0px;
+    margin: 0 auto;
+    background: lightgray;
+}
+
+footer{
+    font-family: sans-serif;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
