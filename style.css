@@ -1,17 +1,30 @@
-#mainContainer{
-    width: 90%;
-    padding: 50px 0px;
-    margin: 0 auto;
-    background: lightgray;
+
+*{
+    margin: 0;
+    padding: 0;
 }
 
-footer{
-    font-family: sans-serif;
-    width: 90%;
-    margin: 0 auto;
-    text-align: center;
+body{
+    font-family: fantasy;
+}
+
+div{
+    width: auto;
+    padding: 30px 30px;
+    background: lightgray;
 }
 
 a{
     text-decoration: none;
+}
+
+#footer{
+    background: #2c2c2c;
+    overflow: hidden;
+}
+
+.footer img{
+    max-width: 40px;
+    float: right;
+    padding-left: 10px;
 }
