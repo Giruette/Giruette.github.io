@@ -6,12 +6,12 @@
 
 body{
     font-family: 'Montserrat', sans-serif;
-    color: #d2d2d2;
+    color: lightgray;
 }
 
 div{
     display: block;
-    background: #1a1a1a;
+    background: #2f2f2f;
 }
 
 section div{
@@ -19,7 +19,7 @@ section div{
 }
 
 .footer{
-    background: #2c2c2c;
+    background: lightgray;
     overflow: hidden;
     border-radius: 4em 4em 0px 0px;
 }
@@ -61,9 +61,10 @@ section div{
 }
 
 .title{
-    background: #2c2c2c;
+    background: lightgray;
     font-size: 18px;
     text-align: center;
+    color: black;
     border-radius: 0px 0px 4em 4em;
 }
 
